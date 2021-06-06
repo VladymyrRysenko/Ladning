@@ -753,12 +753,14 @@ body * {
     margin-bottom: auto;
 }
 .section4 {
-    background: url(../images/city1.png) no-repeat, url(../images/city2.png)no-repeat;
+
+    background: url(../images/frame.png) no-repeat,
+     url(../images/frame2.png)no-repeat;
     
     background-position: bottom;
     height: 1107px;
-    width: 100%;
-    background-size: 100%;
+    /*width: 100%;
+    background-size: 100%;*/
 }
 .section4_all {
     margin-top: 151px;
